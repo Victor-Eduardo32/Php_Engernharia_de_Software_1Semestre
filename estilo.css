@@ -1,0 +1,55 @@
+body{
+
+	background-color: deepskyblue;
+}
+
+.login {
+
+/*background-color: red;*/
+background-image: url('img.jpg');
+width: 300px;
+height: 150px;
+margin: auto;
+margin-top: 15%;
+text-align: center;
+padding-top: 5%;
+
+}
+
+.principal{
+
+width: 500px;
+height: 500px;
+margin: auto;
+/*background-image: url('img2.jpg');*/
+
+}
+
+.principal a {
+
+color: black;
+font-size: 12px;
+text-decoration: none;
+
+}
+
+.formulario{
+
+	background-image: url('TI.png');
+	width: 300px;
+	height: 150px;
+	margin: auto;
+	margin-top: 15%;
+	text-align: center;
+	padding-top: 2%;
+
+
+}
+
+.formulario a {
+
+color: black;
+font-size: 13px;
+text-decoration: none;
+
+}
